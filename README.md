@@ -1,4 +1,4 @@
 # leetcode-practise
 leetcode study with python
 # devide and conquer
-95, 96, 241, 91
+95, 96, 241, 91, 247
