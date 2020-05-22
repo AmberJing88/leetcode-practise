@@ -5,3 +5,6 @@ leetcode study with python
 # backtracking
 39, 50, 113, 112, 46, 90, 77
 # Dynamic programming
+
+# Array-Matrix
+283, 566, 485,240, 378, 645,
