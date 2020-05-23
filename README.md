@@ -7,4 +7,4 @@ leetcode study with python
 # Dynamic programming
 
 # Array-Matrix
-283, 566, 485,240, 378, 645,
+283, 566, 485,240, 378, 645, 240 448 697
