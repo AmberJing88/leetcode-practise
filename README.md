@@ -8,3 +8,5 @@ leetcode study with python
 
 # Array-Matrix
 283, 566, 485,240, 378, 645, 240 448 697,766,565,769
+# Linked list
+160 206 92 21 88 83
