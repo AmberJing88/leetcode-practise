@@ -1,2 +1,2 @@
 # leetcode problem solutions for linked-list examples
-add leetcode160, 206, 92, 21, 88, 83
+add leetcode160, 206, 92, 21, 88, 83, 19, 24, 25
