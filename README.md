@@ -11,4 +11,4 @@ leetcode study with python
 # Linked list
 160 206 92 21 88 83 19 24 25 445 234 725 328
 # stack and queue
-232, 225, 155, 739, 503
+232, 225, 155, 739, 503, 20, 556
