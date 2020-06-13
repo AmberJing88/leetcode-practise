@@ -12,3 +12,6 @@ leetcode study with python
 160 206 92 21 88 83 19 24 25 445 234 725 328
 # stack and queue
 232, 225, 155, 739, 503, 20, 556
+# Binary Tree
+## cursion
+104, 110 543
