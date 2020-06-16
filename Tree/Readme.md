@@ -4,4 +4,4 @@ add problems solution:
 101 (recursion and iteration), 111 (recursion DFS and iteration BFS), 404, 687( recursion and postorder methods),
 337, 671, 637(two methods), 513(two methods)
 ## traversal
-pre: 144 (recursion and iteration), post:145(three methods)
+pre: 144 (recursion and iteration), post:145(three methods), inorder:94 (recursion, iteration, and morris)
