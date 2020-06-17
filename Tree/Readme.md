@@ -5,3 +5,5 @@ add problems solution:
 337, 671, 637(two methods), 513(two methods)
 ## traversal
 pre: 144 (recursion and iteration), post:145(three methods), inorder:94 (recursion, iteration, and morris)
+## BST
+669 (recursion) 230 (inorder recursion and iteration)
