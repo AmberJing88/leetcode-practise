@@ -2,6 +2,7 @@
 ## Graph
 ## search
 ### BFS
+1091 (A* method)
 ### DFS
 695 200 （ two methods) 547 130 417
 ### Backtracking
