@@ -2,7 +2,7 @@
 ## Graph
 ## search
 ### BFS
-1091 (A* method and BFS) 279 ( mathmetical BFS 127(two methods)
+1091 (A* method and BFS) 279 ( mathmetical BFS 127(BFS methods)
 ### DFS
 695 200 （ two methods) 547 130 417
 ### Backtracking
