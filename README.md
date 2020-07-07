@@ -28,5 +28,5 @@ leetcode study with python
 ### bfs
 1091 279 127 
 ## graph
-785 207
+785 207 210 684
 
