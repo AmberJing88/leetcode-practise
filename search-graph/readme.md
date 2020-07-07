@@ -1,6 +1,6 @@
 # store leetcode problem solutions
 ## Graph
-bipartite: 785(two methods)   topology: 207 (two methods to find the cycle) 210 (dfs bfs)  unionfind 684
+bipartite: 785(two methods)   topology: 207 (two methods to find the cycle) 210 (dfs bfs)  unionfind 684 261 (DFS and union find)
 ## search
 ### BFS
 1091 (A* method and BFS) 279 ( mathmetical BFS 127(BFS methods)
