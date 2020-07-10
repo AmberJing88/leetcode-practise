@@ -32,4 +32,4 @@ leetcode study with python
 # hash table
 1 217 594 128
 ## heap-sort
-215
+215 703
