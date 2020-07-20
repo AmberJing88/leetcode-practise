@@ -3,4 +3,5 @@
 leetcode 1143 (dp bottom-up, 2d and 1d)
 2. cut steel pieces to get most money
 recursion, top-down dp and bottom-up dp
-3. shortest path from s to t
+3. 0-1 knapsack problem
+leetcode 416 (3 methods)
