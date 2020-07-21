@@ -5,4 +5,4 @@ leetcode 1143 (dp bottom-up, 2d and 1d)
 recursion, top-down dp and bottom-up dp
 3. 0-1 knapsack problem
 leetcode 416 (3 methods)
-198 (three methods), 213, 70
+198 (three methods), 213, 70， 276，Fibonachii: wrong letters in envilops, number of cows
