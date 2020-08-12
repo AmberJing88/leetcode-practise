@@ -38,4 +38,4 @@ longest substring leetcode 1143, cut steel pieces linear model, 0-1 knapsack  le
 ## string
 programming 3.1 2.17 leetcode 242 409 205 647 9 696
 # bit manipulation
-461, 136,
+461, 136, 268, 260
