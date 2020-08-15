@@ -10,6 +10,8 @@ longest substring leetcode 1143, cut steel pieces linear model, 0-1 knapsack  le
 
 # Array-Matrix
 283, 566, 485,240, 378, 645, 240 448 697,766,565,769
+## two pointers
+167
 # Linked list
 160 206 92 21 88 83 19 24 25 445 234 725 328
 # stack and queue
