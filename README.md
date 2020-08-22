@@ -10,7 +10,7 @@ longest substring leetcode 1143, cut steel pieces linear model, 0-1 knapsack  le
 # sort and selection
 215, 347, 451,75
 ## greed
-455, 435
+455, 435, 452, 406
 # Array-Matrix
 283, 566, 485,240, 378, 645, 240 448 697,766,565,769
 ## two pointers
