@@ -9,6 +9,8 @@ longest substring leetcode 1143, cut steel pieces linear model, 0-1 knapsack  le
 70 198 213 276 wrong letters, number of cows 64, 62, 303,413, 343, 279,91, 300, 646, 376, 1143, 416, 494, 474, 322, 518, 139, 377, 309, 714, 121, 122,123, 188, 583, 72, 650
 # sort and selection
 215, 347, 451,75
+## binary search
+69
 ## greed
 455, 435, 452, 406, 121, 122, 605, 392, 665, 53, 763
 # Array-Matrix
