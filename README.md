@@ -8,7 +8,7 @@ leetcode study with python
 longest substring leetcode 1143, cut steel pieces linear model, 0-1 knapsack  leetcode 416
 70 198 213 276 wrong letters, number of cows 64, 62, 303,413, 343, 279,91, 300, 646, 376, 1143, 416, 494, 474, 322, 518, 139, 377, 309, 714, 121, 122,123, 188, 583, 72, 650
 # sort and selection
-215, 347, 451,75
+215, 347, 451,75, 912
 ## binary search
 69, 744, 540, 278, 153, 34
 ## greed
