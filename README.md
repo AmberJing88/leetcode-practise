@@ -14,7 +14,7 @@ longest substring leetcode 1143, cut steel pieces linear model, 0-1 knapsack  le
 ## greed
 455, 435, 452, 406, 121, 122, 605, 392, 665, 53, 763
 # math
-204, 762, largest common divisor, smallest common multiple, the beauty of programming 2.7, leetcode 504, 405, 168， 172， 编程之美2.2， 67, 415
+204, 762, largest common divisor, smallest common multiple, the beauty of programming 2.7, leetcode 504, 405, 168， 172， 编程之美2.2， 67, 415 (2 methods)
 # Array-Matrix
 283, 566, 485,240, 378, 645, 240 448 697,766,565,769
 ## two pointers
